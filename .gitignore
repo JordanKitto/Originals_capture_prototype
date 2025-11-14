@@ -14,3 +14,6 @@ env/
 
 # Ignore large data exports
 Output_Files/
+data/*.csv
+data/*.xlsx
+data/

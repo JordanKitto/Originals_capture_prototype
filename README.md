@@ -21,10 +21,12 @@ The goal is simple:
 
 ## File structure
 
+```
 originals-prototype/
 ├── data/
 ├── src/
 └── tests/
+```
 
 
 ## Next Steps
