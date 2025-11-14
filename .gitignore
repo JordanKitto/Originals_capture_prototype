@@ -1,4 +1,16 @@
+# Ignore temporary files
 __pycache__/
 *.pyc
-data/*.db
-data/*.csv
+
+# Ignore macOS garbage
+.DS_Store
+
+# Ignore Python venv
+venv/
+env/
+
+# Ignore sqlite or local db files (only if any)
+*.db
+
+# Ignore large data exports
+Output_Files/
